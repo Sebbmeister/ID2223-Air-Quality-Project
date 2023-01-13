@@ -1,7 +1,7 @@
 # ID2223-Air-Quality-Project
 This repository contains the code for the project in the KTH course ID2223. The project is a model capable of predicting future air quality conditions over the next seven days in Helsinki. The measurement used for air quality, AQI, is based on levels of different substances in the air; a lower AQI indicates less polluted air and a higher indicates more polluted air. The application bases its predictions on past and predicted future weather conditions and on past air quality measurements.
 
-The finished application is accessible here: https://huggingface.co/spaces/SebLih/Helsinki-AQ
+The finished application is accessible here: https://huggingface.co/spaces/SebLih/Helsinki-AQ (the only functional input value for "location" is "Helsinki")
 
 ## Data sources
 Data for weather conditions was gathered from Visual Crossing (https://www.visualcrossing.com/) and data for air quality was gathered from the World Air Quality Project (https://aqicn.org//here/).
